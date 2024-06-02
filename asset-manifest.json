@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simpleFormWithFormik/static/css/main.c15d6336.css",
+    "main.js": "/simpleFormWithFormik/static/js/main.a5d90bfb.js",
+    "index.html": "/simpleFormWithFormik/index.html",
+    "main.c15d6336.css.map": "/simpleFormWithFormik/static/css/main.c15d6336.css.map",
+    "main.a5d90bfb.js.map": "/simpleFormWithFormik/static/js/main.a5d90bfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15d6336.css",
+    "static/js/main.a5d90bfb.js"
+  ]
+}
